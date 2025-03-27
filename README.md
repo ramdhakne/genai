@@ -1,5 +1,6 @@
 ## genai
 Work for genai
 
-## testing a client for mistral
+## Mistral 
+testing a python client for mistral
 
