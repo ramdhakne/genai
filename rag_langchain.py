@@ -10,8 +10,8 @@ import time
 import os
 import requests
 
-#api_key= getpass("SJqvKRsCWy6AgSfXlZaDQyhnT1u1HzML")
-api_key = "SJqvKRsCWy6AgSfXlZaDQyhnT1u1HzML"
+#api_key= getpass("ZZZJqvKRsCWy6AgSfXlZaDQyhnT1u1HzML")
+api_key = "XYZJqvKRsCWy6AgSfXlZaDQyhnT1u1OzMLOPS"
 #client = Mistral(api_key=api_key)
 
 #print("client", client)
