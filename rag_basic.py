@@ -12,8 +12,8 @@ from getpass import getpass
 # brew install python@3.9
 # pip3.9 install faiss-cpu==1.7.4 mistralai
 
-#api_key= getpass("SJqvKRsCWy6AgSfXlZaDQyhnT1u1HzML")
-api_key = "SJqvKRsCWy6AgSfXlZaDQyhnT1u1HzML"
+#api_key= getpass("ZZZZsCWy6AgSfXlZaDQyhnT1u1HzML")
+api_key = "XYZJqvKRsCWy6AgSfXlZaDQyhnT1u1OzMLOPS"
 client = Mistral(api_key=api_key)
 
 #print("client", client)
